@@ -1,0 +1,29 @@
+.container{
+
+height: 60px;
+width: 60vw;
+border-radius: 10px;
+box-shadow: 1px 1px 3px red;
+
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+
+margin-bottom: 10px;
+font-size: large;
+}
+.btn{
+
+height: 60%;
+
+
+
+
+}
+.done{
+
+color: green;
+font-size: medium;
+text-decoration: line-through;
+}
